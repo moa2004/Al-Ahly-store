@@ -1,0 +1,3807 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Al-Ahly store</title>
+    <link rel="stylesheet" href="Ahly.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="icon" href="Ahly pic.png" />
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+    </style>
+  </head>
+  <body class="dark">
+    <div class="logoo" border="blue">
+      <header class="flex" id="headerr">
+        <!-- to be inline -->
+<div class="logo">
+    <img src="Ahly pic.png" width="40px" alt="Ahly logo" />
+    <span style="font-weight: bold">Ahly-Store &nbsp;</span>
+    <p style="letter-spacing: 0.5px;margin-top: 40px;padding-right: 50px;" >Club of the century</p>
+</div>
+<div class="right">
+    <a class="Favourite" href="product.html" style="position: relative">
+    <i class="fa-solid fa-heart "style="color: white;"></i>
+    Favourite
+    <span class="noproducts">0</span>
+    </a>
+    <a class="Sign-in" href="login form.html" style="transform: scale(0.9)">
+    <i class="fa-solid fa-right-to-bracket"style="color: white;"></i>
+    Sign-in</a
+    >
+    <a class="Register" href="register.html" style="transform: scale(0.9)">
+    <i class="fa-solid fa-person-circle-check"style="color: white;"></i>
+    Register</a
+    >
+</div>
+</header>
+<section class="content">
+<p class="welcome">Welcome to Al-Ahly store</p>
+<p class="At">
+    <span class="Ahly-store">At Al-Ahly Store</span><br />,<span
+    class="span1"
+    >
+    find jerseys, accessories, and more.
+    </span>
+    Express your passion with pride wherever you go.
+</p><br>
+<p class="Join">
+    Join us in honoring Al-Ahly's legacy. Whether a veteran supporter or
+    newcomer, celebrate with us!
+</p>
+<button class="join-us" id="join">
+    <i class="fa-solid fa-cart-shopping"></i>
+    Our Team</button>
+</section>
+</div>
+
+
+
+
+
+
+
+
+<main class="">
+    <h1 class="recommended">
+      <i class="fa-solid fa-check"></i>
+      Most Purchases
+    </h1>
+
+    <section class="products flex">
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product2.png" alt="" srcset="" />
+        </a>
+
+
+        <div style="width: 266px" class="content">
+
+          <h1 class="title">T-Shirt</h1>
+          <p class="description">
+           Al-Ahly alternative T-shit at season 2022/2023
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$150</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+
+
+
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product3.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Al-Ahly Wallet</h1>
+          <p class="description">
+            This is al-ahly Wallet with very cheap price
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$10</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+
+
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product4.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Ball</h1>
+          <p class="description">
+            This is Al-Ahly ball it's unique ball
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$100</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product5.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Al-Ahly short </h1>
+          <p class="description">
+            Al-Ahly short it's unique short and it's at season 2017/2018
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$200</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product7.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Al-Ahly bag</h1>
+          <p class="description">
+            For all ahly lovers it's essential bag
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$90</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product6.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Al-Ahly Short</h1>
+          <p class="description">
+            it's at season 2017/2018
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$60</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product9.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Al-Ahly clock</h1>
+          <p class="description">
+            it's litteraly elegance clock
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$100</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product10.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">original T-shirt</h1>
+          <p class="description">
+            it's al-ahly original and essential t-shirt at seasson 2022/2023
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$100</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+
+
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product11.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Al-Ahly alternate original</h1>
+          <p class="description">
+            it's original alternate t-shirt of al-ahly
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$100</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product18.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Al-Ahly highcopy t-shirt</h1>
+          <p class="description">
+            highcopy t-shirt of al-ahly t-shirt season 2023/2024
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$100</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product16.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Al-Ahly black</h1>
+          <p class="description">
+            it's al-ahly original and essential t-shirt at seasson 2024
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$150</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+      <article class="card">
+        <a href="product.html">
+          <img width="266" src="product17.PNG" alt="" srcset="" />
+        </a>
+
+        <div style="width: 266px" class="content">
+          <h1 class="title">Ultras Ahlawy 07</h1>
+          <p class="description">
+            The most popular T-shirt
+          </p>
+
+          <div
+            class="flex"
+            style="justify-content: space-between; padding-bottom: 0.7rem"
+          >
+            <div class="price">$100</div>
+
+            <button class="add-to-cart flex">
+              <i class="fa-solid fa-cart-plus"></i>
+              Add To Cart
+            </button>
+          </div>
+        </div>
+      </article>
+    </section>
+  </main>
+  <footer>
+    <div class="footer-container">
+        <div class="social-media">
+            <a href="https://web.facebook.com/alahly" target="_blank">
+                <p>
+                    <i class="fa-brands fa-facebook"></i>
+                    Al-Ahly page &nbsp;</p>
+            </a>
+        </div>
+        <div class="payment-options">
+            <i class="fa-brands fa-cc-visa"></i>
+            <span>Purchasing by Visa card</span>
+        </div>
+    </div>
+    <div class="copyright">
+        &copy; 2024 Al-Ahly Store. All rights reserved.
+    </div>
+</footer>
+
+<script src="Ahly sc.js"></script>
+</body>
+</html>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px ;
+}
+.logo a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    padding-top: 35px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+.navbar a{
+
+    text-decoration: none;
+    font-size: 20 px;
+    font-weight: 700px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px ;
+    padding: 35px 35px;
+    transition: all 0.2s;
+}
+.navbar a:hover{
+    color:rgba(252, 250, 250);
+    background-color: red;
+
+}
+.navbar a.active{
+    color:aliceblue;
+    background-color: red;
+}
+.home-title{
+    display: flex;
+    justify-content: right;
+}
+.title{
+   
+    padding: 200px 20px;
+}
+.title .title-own{
+    padding-bottom: 10px;
+    color:rgb(248,58,57)
+}
+.title .title-tow{
+    padding-bottom: 10px;
+    color:rgb(0,0,0)
+}
+.title .title-thry{
+    padding-bottom: 10px;
+    font-weight: 700;
+    color:rgb(0,0,0)
+}
+.title span{
+    color: rgb(248,58,57);
+}
+.add{
+    display: inline-block;
+    text-decoration: none;
+    margin: 20px 100px;
+    color:rgb(32,0,0);
+    border: 1px solid rgb(202,21,21);
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: rgba(250, 250, 250);
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.add:hover{
+    background-color: rgb(238,55,55);
+    color:rgb(240,240,240);
+}
+.img-i{
+    transition:0.7s ease;
+}
+.img-i:hover{
+    transform:scale(1.1) ;
+}
+.logo{
+    margin-right:520px ;
+}
+.image{
+margin-top: 36px;
+}
+.title-price-h2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    font-size: 25px;
+    color: black;
+    font-weight: 800;
+}
+.title-img{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.title-img img{
+    width: 250px;
+    height: 250px;
+    transition: 0.8s ease;
+    padding-top: 10px;
+}
+.title-img img:hover{
+    transform:scale(1.1) ;
+}
+.title-a{
+   background-color: rgba(236, 239, 241, 1); ;
+   min-height: 250px;
+   width: 350px;
+   overflow: hidden;
+   border-radius: 20px;
+   margin: 15px;
+}
+.info{
+    padding: 20px 50px;
+    display: flex;
+    font-size: 20px;
+    font-weight: 800;
+    margin-right: 50px;
+}
+.info a:hover{
+    background-color: rgb(238,74,74);
+    color: rgb(255, 255, 255);
+}
+.add-now{
+    display: flex;
+    justify-content:space-between;
+    font-size: 15px;
+    text-decoration: none;
+    background-color: rgb(202, 202, 202);
+    color: black;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.add-price{
+    display: flex;
+    text-decoration: none;
+    padding: 10px 10px;
+    color: black;
+    margin-right: 10px;
+}
+footer {
+    background-color: #f1e4d9; 
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.social-media img,
+.payment-options img {
+    width: 30px;
+    height: auto;
+    margin-left: 10px; 
+}
+
+.payment-options span {
+    font-size: 1rem;
+    color: #0b0b0b; 
+    margin-right: 10px; 
+}
+
+.social-media a {
+    display: block;
+    transition: transform 1s ease;
+}
+.social-media a:hover {
+    transform: translateY(-3px); 
+}
+
+.copyright {
+    font-size: 1.2rem; 
+    color: #fff; 
+    font-weight: bold; 
+}
+.copyright {
+    font-size: 12px;
+    color: #777;
+    margin-top: 20px;
+}
+::selection{
+    color: yellowgreen;
+}
+window.addEventListener("scroll",()=>{
+    if(window.scrollY < 100){//if I scroll on Y-Axis
+        headerr.classList.add("scroll");
+    }
+})
+let j=document.getElementById("join").onclick=()=>{
+    window.location.href="Players.html"
+}
+.fa-solid{
+    color: #f2f2f2;
+}
+a:active {
+    transform: scale(0.8);
+    transition: none
+}
+@media (width<600px) {/*display flex*/
+    .logo{
+        display: none;
+    }
+    header.flex{
+        justify-content: center;
+        
+        .right{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1rem;
+        }
+    }
+    
+}
+.logoo{
+    background-image: url("274261_1653x459.jpg");
+    height: 100dvh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+    display: block;
+    outline: 0px;
+    padding: 0px;
+    margin: 0px;
+    background-attachment: fixed;
+}
+.logo{
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+section.content{
+    font-size: 2rem;
+    color: #000000;
+    position: absolute;
+    top: 45%;
+    transform: translateY(-50%);
+    margin-left: 10%;
+}
+@media (width<1000) {
+    div.logoo{
+        background-position: left;
+    }
+}
+.span1{
+    font-weight: bold;
+    color: rgb(235, 52, 52);
+}
+.welcome{
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+.Ahly-store{
+    display: block;
+    margin-top: 0.7rem;
+    font-weight: bold;
+    color: #f65555;
+}
+.At{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+header.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 10%;
+    padding-top: 2rem;
+}
+.Sign-in{
+margin-inline: 1rem;
+}
+.Sign-in,.Register{
+    border: 2px solid black;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    border-radius: 55px;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 1000;
+}
+.Sign-in:hover
+,.Register:hover,
+&.Sign-in:hover.fa-solid,
+&.Register:hover.fa-solid{
+    background-color: #2b253a;
+    border: 1px solid rgb(152, 154, 189);
+    padding: 0.5rem 1.1rem;
+    color: #9fc5ef;
+}
+.logo:hover{
+    scale: 1.1;
+    }
+a{
+    all:unset
+    
+}
+a:hover{
+    color: #007bff;
+}
+.Favourite{
+    background-color:#2b3445 ;
+    color: #9fc5ef;
+    font-size: 1rem;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    border-radius: 55px;
+    border: 2px solid black;
+}
+.noproducts{
+    position: absolute;
+    right: 0;
+    top: -5px;;
+    font-size: 0.7rem;
+    font-weight: bold;
+    background-color: rgb(255,193,173);
+    height: 20px;
+    width: 20px;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.fa-shop{
+    font-size: 2rem;
+}
+.right{
+    margin-right: 0.3rem;
+}
+button{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    margin-top: 0.9rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    padding: 0.5rem 1.5rem;
+}
+button:hover{
+    scale: 0.9;
+    transition: 2s;
+}  
+  @media (width < 1000px) {
+    div.top-img {
+      background-position: left;
+    }
+  }
+  section.content {
+    font-size: 2rem;
+    position: absolute;
+  
+    top: 45%;
+    transform: translateY(-50%);
+  
+    margin-left: 10%;
+    & button {
+      background-color: black;
+      color: white;
+      margin-top: 0.9rem;
+      font-size: 0.9rem;
+      border-radius: 3px;
+      padding: 0.6rem 1.6rem;
+    }
+  }
+  
+  main h1.recommended {
+    margin: 2.3rem 0 2rem 2%;
+  }
+  
+  @media (width < 600px) {
+    main h1.recommended {
+      margin: 2.3rem 0 2rem 0;
+      font-size: 1.4rem;
+    }
+  }
+  main section.products.flex{
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem 2rem;
+     margin: 3px;
+  
+  
+    & article.card{
+      border-radius: 5px;
+      box-shadow: 5px 5px 0.7rem rgb(0, 0, 0);
+    transition: 0.2s;
+    }
+  
+  
+    & article.card:hover{
+      scale: 1.2;
+    }
+  
+    & img {
+      border-radius: 5px 5px 0 0;
+    }
+  
+    & .card .content {
+      background-color: #fff;
+      border-radius: 0 0 5px 5px;
+    }
+  
+    & .card .content .title {
+      padding-top: 0.7rem;
+      padding-inline: 0.4rem;
+      text-transform: capitalize;
+    }
+  
+    & .card .content .description {
+      padding-inline: 0.4rem;
+      font-size: 0.8rem;
+      margin-top: 0.4rem;
+      margin-bottom: 0.6rem;
+      line-height: 1.1rem;
+    }
+  
+    & .card .content .price {
+      margin-left: 0.88rem;
+      font-size: 0.9rem;
+      color: rgb(199, 0, 40);
+      font-weight: bold;
+    }
+  
+    & .add-to-cart {
+      margin-right: 0.88rem;
+      background-color: rgb(104, 104, 222);
+      color: #fff;
+      border-radius: 4px;
+      padding: 6px 8px;
+      font-size: 0.7rem;
+      gap: 0.33rem;
+    }
+  
+    & .fa-solid {
+      color: white;
+    }
+  
+  }
+  ::selection{
+    color: aqua;
+  }
+  :root {
+    --bodyBG: #f2f2f2;
+    --bodyFont: #2b3445;
+    --blue: #9fc5ef;
+    --blue-button: #1976d2;
+  }
+  
+  body {
+    background-color: var(--bodyBG);
+    color: var(--bodyFont);
+  }  
+  .border {
+    border: 4px solid red;
+  }
+  
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+  
+  html {
+    font-family: system-ui, -apple-system, "Roboto", sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  main {
+    width: 80%;
+    margin-inline: auto;
+  }
+  
+  @media (width < 600px) {
+    main {
+      width: 100%;
+    }
+  }
+  a,
+  button {
+    all: unset;
+    display: inline-block;
+    transition: 0.2s;
+  }
+  
+   button:active,
+  a:active {
+    scale: 0.9;
+  }
+  
+  button:hover,
+  a:hover {
+    cursor: pointer;
+  }
+  footer {
+    background-color: #f1e4d9; 
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.social-media img,
+.payment-options img {
+    width: 30px;
+    height: auto;
+    margin-left: 10px; 
+}
+
+.payment-options span {
+    font-size: 1rem;
+    color: #0b0b0b; 
+    margin-right: 10px; 
+}
+
+.social-media a {
+    display: block;
+    transition: transform 1s ease;
+}
+.social-media a:hover {
+    transform: translateY(-3px); 
+}
+
+.copyright {
+    font-size: 1.2rem; 
+    color: #fff; 
+    font-weight: bold; 
+}
+.copyright {
+    font-size: 12px;
+    color: #777;
+    margin-top: 20px;
+}header {
+    background-color: #343a40; 
+    color: #fff; 
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.logo span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.logo p {
+    margin: 0;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.right a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: transform 0.3s ease; 
+}
+
+.right a:hover {
+    transform: scale(1.1); 
+}
+
+.noproducts {
+    background-color: #dc3545; 
+    color: #fff;
+    border-radius: 50%; 
+    padding: 2px 6px; 
+    font-size: 12px;
+    margin-left: 5px;
+}
+.fa-heart:before {
+    content: "\e005"; /*hear*/
+}
+
+.fa-right-to-bracket:before {
+    content: "\e00a"; /*right bracke*/
+}
+
+.fa-person-circle-check:before {
+    content: "\e009"; /*check icon*/
+}
+/*to make icons*/
+:root {
+    --bodyBG: #f6f6f6;
+    --bodyFont: #2b3445;
+    --blue: #9fc5ef;
+    --blue-button: #1976d2;
+    --red-button: #e41d43;
+  
+    --icons: #40464d;
+  
+    --footer-bg: #212529;
+  
+    --white: #fff;
+  }
+  
+  body {
+    background-color: var(--bodyBG);
+    color: var(--bodyFont);
+  }
+  .border {
+    border: 4px solid red;
+  }
+  
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+  
+  html {
+    font-family: system-ui, -apple-system, "Roboto", sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  main {
+    width: 80%;
+    margin-inline: auto;
+  }
+  
+  @media (width < 600px) {
+    main {
+      width: 100%;
+    }
+  }
+  a,
+  button {
+    all: unset;
+    display: inline-block;
+    transition: 0.2s;
+  }
+  
+  button:active,
+  a:active {
+    scale: 0.9;
+  }
+  
+  button:hover,
+  a:hover {
+    cursor: pointer;
+  }
+  
+  button:disabled{
+    opacity: 0.7;
+    cursor: not-allowed;
+    scale: 1;
+  }
+  
+  li {
+    list-style: none;
+  }
+  .fa-solid {
+    color: var(--icons);
+  }
+  .scroll{
+    position: fixed;
+    right: 0;
+    left: 0;
+    padding-bottom: 1rem;
+    z-index: 10;
+  }
+  .join-us:hover{
+    scale: 1.01;
+    transition: 1s;
+  }
+---------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="logoooo.png">
+    <link rel="stylesheet" href="players.css">
+    <title>Squad</title>
+</head>
+<body>
+<div class="container">
+    <header>
+        <a href="#"><img src="logoooo.png" alt="" class="logo"></a>
+    </header>
+    <div class="content">
+        <div class="text">
+            <h2 id="headd">Squad Team</h2>
+            <p>This Page Contain All pictures of AL-Ahly Squad Team 2024 From GK Until Forward Striker </p>
+                  <a href="#">All Players</a>
+        </div>
+        <div class="image">
+                <img class="img" src="Mohamed El-Shenawy - FootyRenders.png" width="310">
+        </div>
+    </div>
+    <div class="icons">
+            <img onclick="phones(this.src)" src="Mohamed El-Shenawy - FootyRenders.png" > 
+        <!-- <img onclick="phones(this.src)" src="Taher Mohamed - FootyRenders.png" > -->
+        <img onclick="phones(this.src)" src="Percy Tau - FootyRenders.png"  >        
+        <img onclick="phones(this.src)" src="Amr Elsolia - FootyRenders.png" >
+        <img onclick="phones(this.src)" src="Ali Maaloul - FootyRenders.png" >
+        <img onclick="phones(this.src)" src="Ramy Rabia - FootyRenders.png" >
+        <img onclick="phones(this.src)" src="Salah Mohsen - FootyRenders.png" >
+        <!-- <img onclick="phones(this.src)" src="Mohamed Magdy Afsha - FootyRenders.png" > -->
+        <img onclick="phones(this.src)" src="Yasser Ibrahim - FootyRenders.png" >
+        <img onclick="phones(this.src)" src="Hussein El Shahat - FootyRenders.png" >
+        <!-- <img onclick="phones(this.src)" src="Mohamed Hany - FootyRenders.png" > -->
+        <img onclick="phones(this.src)" src="Mahmoud Kahraba - FootyRenders.png" >
+        <!-- <img onclick="phones(this.src)" src="Mahmoud Metwaly - FootyRenders.png" > -->
+        <img onclick="phones(this.src)" src="Aliou Dieng - FootyRenders.png">
+        <img onclick="phones(this.src)" src="IMG_6730.PNG" >
+        <img onclick="phones(this.src)" src="IMG_6733.PNG" >
+        <img onclick="phones(this.src)" src="IMG_6734.PNG" >
+        <img onclick="phones(this.src)" src="IMG_6735.PNG" >
+        <img onclick="phones(this.src)" src="IMG_6736.PNG" >
+    </div>
+</div>
+    <script src="players.js"></script>
+    
+</body>
+</html>
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.container{
+    background: black;
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+}
+.logo{
+    width:40px;
+}
+ul li{
+    display: inline-block;
+    list-style: none;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+.content .text{
+    width: 40%;
+    color: white;
+
+}
+.content .text h2{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.content .text p{
+    font-size: 18px;
+    margin: 20px 0;
+}
+.content .text a{
+    text-decoration: none;
+    background: white;
+    color: black;
+    padding: 8px 15px;
+    border-radius: 20px;
+}
+.content .image{
+    width: 30%;
+}
+.content .imag img{
+    width: 180px;
+
+}
+.icons{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+.icons img{
+    width: 40px;
+    cursor: pointer;
+    transition: 0.5; 
+}
+.icons img:hover{
+     scale: 1.1;
+    transition: 1s;
+}
+.icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+}
+.icons img {
+    margin: 0 10px;
+}
+let img =document.querySelector('.img');
+function phones(phone){
+    img.src=phone;
+}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>products</title>
+    <link rel="icon" href="Ahly pic.png" />
+    <link rel="stylesheet" href="Fav.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body
+    class="border"
+    style="
+      height: 100vh;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      align-items: center;
+    "
+  >
+    <header class="flex">
+      <!-- to be inline -->
+      <a  class="logo">
+        <img src="Ahly pic.png" width="40px" alt="Ahly logo" />
+        <span style="font-weight: bold">Ahly-Store</span>
+        <p style="letter-spacing: 0.5px">Club of the century</p>
+      </a>
+      <div class="right">
+        <a class="Favourite" href="Fav.html" style="position: relative">
+          <i class="fa-solid fa-heart" style="color: white;"></i>
+          Favourite
+          <span class="noproducts">0</span>
+        </a>
+        <a class="Sign-in" href="login form.html" style="transform: scale(0.9)">
+          <i class="fa-solid fa-right-to-bracket" style="color: white;"></i>
+          Sign-in</a
+        >
+        <a class="Register" href="register.html" style="transform: scale(0.9)">
+          <i class="fa-solid fa-person-circle-check" style="color: white;"></i>
+          Register</a
+        >
+      </div>
+    </header>
+    <main style="text-align: center;" class="flex">
+    
+      <img alt="" src="Ahly pic.png" />
+
+      <div class="product-details">
+        <div style="justify-content: space-between" class="flex">
+          <h2>Details</h2>
+          <p class="price">$16</p>
+        </div>
+
+        <p class="description">
+          Support Al-Ahly with style! Elevate your fan game with the alternate t-shirt, showing your passion for the iconic Egyptian club.
+        </p>
+
+        <button class="flex add-to-Fav">
+          <i class="fa-solid fa-cart-plus"></i>
+          Add To FAV
+        </button>
+      </div>
+
+    </main>
+
+    <footer>
+      <div class="footer-container">
+        <div class="social-media">
+          <a href="https://web.facebook.com/alahly" target="_blank">
+            <p>
+              <i class="fa-brands fa-facebook"></i>
+              Al-Ahly page &nbsp;
+            </p>
+          </a>
+        </div>
+        <div class="payment-options">
+          <i class="fa-brands fa-cc-visa"></i>
+          <span>Purchasing by Visa card</span>
+        </div>
+      </div>
+      <div class="copyright">
+        &copy; 2024 Al-Ahly Store. All rights reserved.
+      </div>
+    </footer>
+  </body>
+</html>
+
+footer {
+    background-color: #f1e4d9; 
+    padding: 20px;
+    text-align: center;
+}
+body{
+    margin: 0;
+    
+}
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.social-media img,
+.payment-options img {
+    width: 30px;
+    height: auto;
+    margin-left: 10px; 
+}
+
+.payment-options span {
+    font-size: 1rem;
+    color: #0b0b0b; 
+    margin-right: 10px; 
+}
+
+.social-media a {
+    display: block;
+    transition: transform 1s ease;
+}
+.social-media a:hover {
+    transform: translateY(-3px); 
+}
+
+.copyright {
+    font-size: 1.2rem; 
+    color: #fff; 
+    font-weight: bold; 
+}
+.copyright {
+    font-size: 12px;
+    color: #777;
+    margin-top: 20px;
+}header {
+    background-color: #343a40; 
+    color: #fff; 
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.logo span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.logo p {
+    margin: 0;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.right a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: transform 0.3s ease; 
+}
+
+.right a:hover {
+    transform: scale(1.1); 
+}
+
+.noproducts {
+    background-color: #dc3545; 
+    color: #fff;
+    border-radius: 50%; 
+    padding: 2px 6px; 
+    font-size: 12px;
+    margin-left: 5px;
+}
+.fa-heart:before {
+    content: "\e005"; /*hear*/
+}
+
+.fa-right-to-bracket:before {
+    content: "\e00a"; /*right bracke*/
+}
+
+.fa-person-circle-check:before {
+    content: "\e009"; /*check icon*/
+}
+/*to make icons*/
+.logo{
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+section.content{
+    font-size: 2rem;
+    color: #000000;
+    position: absolute;
+    top: 45%;
+    transform: translateY(-50%);
+    margin-left: 10%;
+}
+@media (width<1000) {
+    div.logoo{
+        background-position: left;
+    }
+}
+.span1{
+    font-weight: bold;
+    color: rgb(235, 52, 52);
+}
+.welcome{
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+.Ahly-store{
+    display: block;
+    margin-top: 0.7rem;
+    font-weight: bold;
+    color: #f65555;
+}
+.At{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+header.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 10%;
+    padding-top: 2rem;
+}
+.Sign-in{
+margin-inline: 1rem;
+}
+.Sign-in,.Register{
+    border: 2px solid black;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    border-radius: 55px;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 1000;
+}
+.Sign-in:hover
+,.Register:hover,
+&.Sign-in:hover.fa-solid,
+&.Register:hover.fa-solid{
+    background-color: #2b3445;
+    color: #9fc5ef;
+}
+a{
+    all:unset
+    
+}
+a:hover{
+    color: #f68787;
+}
+.Favourite{
+    background-color:#2b3445 ;
+    color: #9fc5ef;
+    font-size: 1rem;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    border-radius: 55px;
+    border: 2px solid black;
+}
+.noproducts{
+    position: absolute;
+    right: 0;
+    top: -5px;;
+    font-size: 0.7rem;
+    font-weight: bold;
+    background-color: rgb(255,193,173);
+    height: 20px;
+    width: 20px;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.fa-shop{
+    font-size: 2rem;
+}
+.right{
+    margin-right: 0.3rem;
+}
+.fa-solid{
+    color: #ee8181;
+}
+a:active {
+    transform: scale(0.9);
+    transition: none
+}
+@media (width<600px) {/*display flex*/
+    .logo{
+        display: none;
+    }
+    header.flex{
+        justify-content: center;
+        
+        .right{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1rem;
+        }
+    }
+    
+}
+.logo:hover{
+scale: 1.1;
+}
+:root {
+    --bodyBG: #f6f6f6;
+    --bodyFont: #2b3445;
+    --blue: #9fc5ef;
+    --blue-button: #1976d2;
+    --red-button: #e41d43;
+  
+    --icons: #40464d;
+  
+    --footer-bg: #212529;
+  
+    --white: #fff;
+  }
+  
+  body {
+    background-color: var(--bodyBG);
+    color: var(--bodyFont);
+  }
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+  main:hover{
+scale: 1.1;
+transition: 1s;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }  
+  html {
+    font-family: cursive;
+    scroll-behavior: smooth;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 0.88rem;
+  }
+  
+  main {
+    width: 80%;
+    margin-inline: auto;
+  }
+  
+  @media (width < 600px) {
+    main {
+      width: 100%;
+    }
+  }
+  button {
+    all: unset;
+    display: inline-block;
+    transition: 0.2s;
+  }
+  
+  button:active,
+  a:active {
+    scale: 0.9;
+  }
+  
+  button:hover,
+  a:hover {
+    cursor: pointer;
+  }
+  
+  button:disabled{
+    opacity: 0.7;
+    cursor: not-allowed;
+    scale: 1;
+  }
+  
+  li {
+    list-style: none;
+  }
+  .fa-solid {
+    color: var(--icons);
+  }
+main.flex {
+    max-width: 800px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px -1px 1px -1px,
+      rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+    border-radius: 0.4rem;
+    background-color: var(--white);
+  
+    & img {
+      width: 40%;
+      border-radius: 0.4rem;
+    }
+  
+    & .price {
+      font-size: 1.22rem;
+      font-weight: bold;
+      color: var(--red-button);
+    }
+  
+    & .product-details {
+      margin-inline: 1.1rem;
+    }
+  
+    & .description {
+      text-align: left;
+      margin-block: 1.2rem;
+      line-height: 1.44rem;
+      text-wrap: balance;
+    }
+  
+    & .add-to-Fav {
+      background-color: var(--blue-button);
+      color: var(--white);
+      border-radius: 4px;
+      padding: 6px 8px;
+      font-size: 0.9rem;
+      gap: 0.33rem;
+    }
+  
+    & .fa-cart-plus {
+      color: var(--white);
+    }
+  }
+  
+  @media (width < 800px) {
+    main.flex {
+      flex-wrap: wrap;
+  
+      & img {
+        margin-inline: auto;
+        width: 260px;
+      }
+  
+      .product-details {
+        margin-top: 2.5rem;
+        margin-bottom: 1.3rem;
+      }
+    }
+  }
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Favourite</title>
+    <link rel="icon" href="Ahly pic.png" />
+    <link rel="stylesheet" href="Fav cart.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body
+    class="border"
+    style="
+      height: 100vh;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      align-items: center;
+    "
+  >
+    <header class="flex">
+      <!-- to be inline -->
+      <a href="" class="logo">
+        <img src="Ahly pic.png" width="40px" alt="Ahly logo" />
+        <span style="font-weight: bold" >Ahly-Store</span>
+        <p style="letter-spacing: 0.5px">Club of the century</p>
+      </a>
+      <div class="right">
+        <a class="Favourite" href="" style="position: relative">
+          <i class="fa-solid fa-heart" style="color: white;"></i>
+          Favourite
+          <span class="noproducts">0</span>
+        </a>
+        <a class="Sign-in" href="login form.html" style="transform: scale(0.9)">
+          <i class="fa-solid fa-right-to-bracket" style="color: white;"></i>
+          Sign-in</a
+        >
+        <a class="Register" href="register.html" style="transform: scale(0.9)">
+          <i class="fa-solid fa-person-circle-check" style="color: white;"></i>
+          Register</a
+        >
+      </div>
+    </header>
+    <main style="text-align: center" class="">
+      <section class="cart">
+        <article class="product flex">
+          <button>
+            <i class="fa-solid fa-trash-can"> </i>
+          </button>
+
+          <p class="price">$200</p>
+
+          <div class="flex" style="margin-right: 1rem">
+            <button class="decrease">-</button>
+            <div class="quantity flex">3</div>
+            <button class="increase">+</button>
+          </div>
+
+          <p class="title">Alternate T-Shirt</p>
+
+          <img
+            style="border-radius: 0.22rem"
+            width="70"
+            height="70"
+            alt=""
+            src="product2.PNG"
+          />
+        </article>
+
+        <article class="product flex">
+          <button>
+            <i class="fa-solid fa-trash-can"> </i>
+          </button>
+
+          <p class="price">$100</p>
+
+          <div class="flex" style="margin-right: 1rem">
+            <button class="decrease">-</button>
+            <div class="quantity flex">1</div>
+            <button class="increase">+</button>
+          </div>
+
+          <p class="title">Al-Ahly short</p>
+
+          <img
+            style="border-radius: 0.22rem"
+            width="70"
+            height="70"
+            alt=""
+            src="product6.PNG"
+          />
+        </article>
+
+        <article class="product flex">
+          <button>
+            <i class="fa-solid fa-trash-can"> </i>
+          </button>
+
+          <p class="price">$120</p>
+
+          <div class="flex" style="margin-right: 1rem">
+            <button class="decrease">-</button>
+            <div class="quantity flex">0</div>
+            <button class="increase">+</button>
+          </div>
+
+          <p class="title">Ahly copy-right t-shirt</p>
+
+          <img
+            style="border-radius: 0.22rem"
+            width="70"
+            height="70"
+            alt=""
+            src="product18.PNG"
+          />
+        </article>
+
+        <article class="product flex">
+          <button>
+            <i class="fa-solid fa-trash-can"> </i>
+          </button>
+
+          <p class="price">$13</p>
+
+          <div class="flex" style="margin-right: 1rem">
+            <button class="decrease">-</button>
+            <div class="quantity flex">3</div>
+            <button class="increase">+</button>
+          </div>
+
+          <p class="title">Al-Ahly Wallet</p>
+
+          <img
+            style="border-radius: 0.22rem"
+            width="70"
+            height="70"
+            alt=""
+            src="product3.PNG"
+          />
+        </article>
+
+        <article class="product flex">
+          <button>
+            <i class="fa-solid fa-trash-can"> </i>
+          </button>
+
+          <p class="price">$100</p>
+
+          <div class="flex" style="margin-right: 1rem">
+            <button class="decrease">-</button>
+            <div class="quantity flex">5</div>
+            <button class="increase">+</button>
+          </div>
+
+          <p class="title">Al-Ahly socks</p>
+
+          <img
+            style="border-radius: 0.22rem"
+            width="70"
+            height="70"
+            alt=""
+            src="product8.PNG"
+          />
+        </article>
+
+
+      </section>
+
+      <button class="clear">
+        <i
+          style="color: #fff; margin-right: 0.2rem"
+          class="fa-solid fa-trash-can icon"
+        >
+        </i>
+        Clear Cart
+      </button>
+
+      <section class="summary">
+        <h1>Total</h1>
+
+        <div class="flex">
+          <p class="Subtotal">Result</p>
+          <p>$1000</p>
+        </div>
+        <button disabled class="checkout">CHECKOUT</button>
+
+        <a href="login form.html" style="font-weight: bold;"> Please Sign in to continue. </a>
+      </section>
+    </main>
+    <footer>
+      <div class="footer-container">
+        <div class="social-media">
+          <a href="https://web.facebook.com/alahly" target="_blank">
+            <p>
+              <i class="fa-brands fa-facebook"></i>
+              Al-Ahly page &nbsp;
+            </p>
+          </a>
+        </div>
+        <div class="payment-options">
+          <i class="fa-brands fa-cc-visa"></i>
+          <span>Purchasing by Visa card</span>
+        </div>
+      </div>
+      <div class="copyright">
+        &copy; 2024 Al-Ahly Store. All rights reserved.
+      </div>
+    </footer>
+  </body>
+</html>
+footer {
+    background-color: #f1e4d9; 
+    padding: 20px;
+    text-align: center;
+}
+body{
+    margin: 0;
+    
+}
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.social-media img,
+.payment-options img {
+    width: 30px;
+    height: auto;
+    margin-left: 10px; 
+}
+
+.payment-options span {
+    font-size: 1rem;
+    color: #0b0b0b; 
+    margin-right: 10px; 
+}
+
+.social-media a {
+    display: block;
+    transition: transform 1s ease;
+}
+.social-media a:hover {
+    transform: translateY(-3px); 
+}
+
+.copyright {
+    font-size: 1.2rem; 
+    color: #fff; 
+    font-weight: bold; 
+}
+.copyright {
+    font-size: 12px;
+    color: #777;
+    margin-top: 20px;
+}header {
+    background-color: #343a40; 
+    color: #fff; 
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.logo span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.logo p {
+    margin: 0;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.right a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: transform 0.3s ease; 
+}
+
+.right a:hover {
+    transform: scale(1.1); 
+}
+
+.noproducts {
+    background-color: #dc3545; 
+    color: #fff;
+    border-radius: 50%; 
+    padding: 2px 6px; 
+    font-size: 12px;
+    margin-left: 5px;
+}
+.fa-heart:before {
+    content: "\e005"; /*hear*/
+}
+
+.fa-right-to-bracket:before {
+    content: "\e00a"; /*right bracke*/
+}
+
+.fa-person-circle-check:before {
+    content: "\e009"; /*check icon*/
+}
+/*to make icons*/
+.logo{
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+section.content{
+    font-size: 2rem;
+    color: #000000;
+    position: absolute;
+    top: 45%;
+    transform: translateY(-50%);
+    margin-left: 10%;
+}
+@media (width<1000) {
+    div.logoo{
+        background-position: left;
+    }
+}
+.span1{
+    font-weight: bold;
+    color: rgb(235, 52, 52);
+}
+.welcome{
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+.Ahly-store{
+    display: block;
+    margin-top: 0.7rem;
+    font-weight: bold;
+    color: #f65555;
+}
+.At{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+header.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 10%;
+    padding-top: 2rem;
+}
+.Sign-in{
+margin-inline: 1rem;
+}
+.Sign-in,.Register{
+    border: 2px solid black;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    border-radius: 55px;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 1000;
+}
+.Sign-in:hover
+,.Register:hover,
+&.Sign-in:hover.fa-solid,
+&.Register:hover.fa-solid{
+    background-color: #2b3445;
+    color: #9fc5ef;
+}
+a{
+    all:unset
+    
+}
+a:hover{
+    color: #f68787;
+}
+.Favourite{
+    background-color:#2b3445 ;
+    color: #9fc5ef;
+    font-size: 1rem;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    border-radius: 55px;
+    border: 2px solid black;
+}
+.noproducts{
+    position: absolute;
+    right: 0;
+    top: -5px;;
+    font-size: 0.7rem;
+    font-weight: bold;
+    background-color: rgb(255,193,173);
+    height: 20px;
+    width: 20px;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.fa-shop{
+    font-size: 2rem;
+}
+.right{
+    margin-right: 0.3rem;
+}
+/* .fa-solid{
+    color: #ee8181;
+} */
+a:active {
+    transform: scale(0.9);
+    transition: none
+}
+@media (width<600px) {/*display flex*/
+    .logo{
+        display: none;
+    }
+    header.flex{
+        justify-content: center;
+        
+        .right{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1rem;
+        }
+    }
+    
+}
+.logo:hover{
+scale: 1.1;
+}section.cart article.flex {
+    background-color: var(--white);
+    border-top: 2px solid var(--blue-button);
+    margin-top: 1.8rem;
+  
+    justify-content: space-between;
+    max-width: 450px;
+    margin-inline: auto;
+    border-radius: 4px;
+    font-weight: 500;
+  
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px,
+      rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+  
+    & .fa-trash-can {
+      color: var(--red-button);
+      margin-left: 1rem;
+    }
+  
+    & button.decrease {
+      color: var(--blue-button);
+      font-size: 1.9rem;
+    }
+  
+    & .quantity {
+      background-color: var(--blue-button);
+      color: var(--white);
+      font-size: 0.8rem;
+      height: 21px;
+      width: 21px;
+      border-radius: 50%;
+      justify-content: center;
+      margin-inline: 0.4rem;
+    }
+  
+    & button.increase {
+      color: var(--blue-button);
+      font-size: 1.4rem;
+    }
+  }
+  
+  button.clear {
+    background-color: var(--red-button);
+    color: var(--white);
+  
+    margin-top: 1rem;
+    border-radius: 4px;
+    padding: 6px 8px;
+    font-size: 0.8rem;
+  }
+  
+  section.summary {
+    background-color: var(--white);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px,
+      rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+  
+    width: 233px;
+    margin-inline: auto;
+    margin-top: 2.5rem;
+    border-radius: 4px;
+  
+    & h1 {
+      font-size: 1.2rem;
+      padding-block: 0.5rem;
+      border-bottom: 2px solid rgba(0, 0, 0, 0.12);
+    }
+  
+    & div.flex {
+      padding-inline: 0.5rem;
+      margin-block: 0.6rem;
+      justify-content: space-between;
+    }
+  
+    & button.checkout {
+      width: 100%;
+      background-color: var(--blue-button);
+      color: var(--white);
+      padding-block: 0.6rem;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+  
+    & a {
+      padding-block: 0.5rem;
+      color: var(--red-button);
+      font-size: 0.9rem;
+    }
+  }
+  
+:root {/*make variable*/
+    --bodyBG: #f6f6f6;
+    --bodyFont: #2b3445;
+    --blue: #9fc5ef;
+    --blue-button: #1976d2;
+    --red-button: #e41d43;
+  
+    --icons: #40464d;
+  
+    --footer-bg: #212529;
+  
+    --white: #fff;
+  }
+  
+  body {
+    background-color: var(--bodyBG);
+    color: var(--bodyFont);
+  }
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+  
+  html {
+    font-family: cursive;
+    scroll-behavior: smooth;
+  }
+  article:hover{
+    scale:1.1 ; 
+    transition: 1s;
+}
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  main {
+    width: 80%;
+    margin-inline: auto;
+  }
+  
+  @media (width < 600px) {
+    main {
+      width: 100%;
+    }
+  }
+  a,
+  button {
+    all: unset;
+    display: inline-block;
+    transition: 0.2s;
+  }
+  
+  button:active,
+  a:active {
+    scale: 0.9;
+  }
+  
+  button:hover,
+  a:hover {
+    cursor: pointer;
+  }
+  
+  button:disabled{
+    opacity: 0.7;
+    cursor: not-allowed;
+    scale: 1;
+  }
+  
+  li {
+    list-style: none;
+  }
+  .fa-solid {
+    color: var(--icons);
+  }
+  section.cart article.flex {
+    background-color: var(--white);
+    border-top: 2px solid var(--blue-button);
+    margin-top: 1.8rem;
+  
+    justify-content: space-between;
+    max-width: 450px;
+    margin-inline: auto;
+    border-radius: 4px;
+    font-weight: 500;
+  
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px,
+      rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+  
+    & .fa-trash-can {
+      color: var(--red-button);
+      margin-left: 1rem;
+    }
+  
+    & button.decrease {
+      color: var(--blue-button);
+      font-size: 1.9rem;
+    }
+  
+    & .quantity {
+      background-color: var(--blue-button);
+      color: var(--white);
+      font-size: 0.8rem;
+      height: 21px;
+      width: 21px;
+      border-radius: 50%;
+      justify-content: center;
+      margin-inline: 0.4rem;
+    }
+  
+    & button.increase {
+      color: var(--blue-button);
+      font-size: 1.4rem;
+    }
+  }
+  
+  button.clear {
+    background-color: var(--red-button);
+    color: var(--white);
+  
+    margin-top: 1rem;
+    border-radius: 4px;
+    padding: 6px 8px;
+    font-size: 0.8rem;
+  }
+  
+  section.summary {
+    background-color: var(--white);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px,
+      rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+  
+    width: 233px;
+    margin-inline: auto;
+    margin-top: 2.5rem;
+    border-radius: 4px;
+  
+    & h1 {
+      font-size: 1.2rem;
+      padding-block: 0.5rem;
+      border-bottom: 2px solid rgba(0, 0, 0, 0.12);
+    }
+  
+    & div.flex {
+      padding-inline: 0.5rem;
+      margin-block: 0.6rem;
+      justify-content: space-between;
+    }
+  
+    & button.checkout {
+      width: 100%;
+      background-color: var(--blue-button);
+      color: var(--white);
+      padding-block: 0.6rem;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+  
+    & a {
+      padding-block: 0.5rem;
+      color: var(--red-button);
+      font-size: 0.9rem;
+    }
+  }
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .background {
+    background-image: url(ULTRAS.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  }
+  
+  .content {
+    z-index: 1;
+  }
+  
+  .buttons {
+    margin-bottom: 20px;
+  }
+  
+  .year-button {
+    background-color: #ffcc00;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .year-button:hover {
+    background-color: #ffc107;
+  }
+  
+  .trophy-container {
+    display: none;
+  }
+  
+  .trophy-container.active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .trophy {
+    width: 100px;
+    height: auto;
+    margin: 10px;
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .trophy:hover {
+    transform: scale(1.1);
+  }
+  
+  .trophy.enlarged {
+    width: 200px; /* Adjust the size of the enlarged trophy */
+    height: auto;
+    z-index: 2;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .essay {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: #000;
+    text-align: left;
+  }
+  
+  .footer {
+    background: linear-gradient(135deg, #d81b21, #000000);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+.essay {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: #000;
+    text-align: left;
+    transition: transform 2s ease-in-out; 
+    transform: translateX(-100%); 
+  }
+  
+  .essay.show {
+    transform: translateX(0%); 
+  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Us - Al-Ahly Egyptian Club</title>
+<link rel="stylesheet" href="About Us - Copy.css">
+</head>
+<body>
+
+<section class="background">
+  <div class="overlay"></div>
+  <div class="content">
+    <h1><img src="Ahly (6).png" alt="Al-Ahly Logo" class="logo" width="20px"> About Us - Al-Ahly Egyptian Club</h1>
+    <p>Welcome to the club of the century!</p>
+    <div class="buttons">
+      <button class="year-button" data-year="2000">2000</button>
+      <button class="year-button" data-year="2001">2001</button>
+      <button class="year-button" data-year="2002">2002</button>
+      <button class="year-button" data-year="2003">2003</button>
+      <button class="year-button" data-year="2004">2004</button>
+      <button class="year-button" data-year="2005">2005</button>
+      <button class="year-button" data-year="2006">2006</button>
+      <button class="year-button" data-year="2007">2007</button>
+      <button class="year-button" data-year="2008">2008</button>
+      <button class="year-button" data-year="2009">2009</button>
+      <button class="year-button" data-year="2010">2010</button>
+      <button class="year-button" data-year="2011">2011</button>
+      <button class="year-button" data-year="2012">2012</button>
+      <button class="year-button" data-year="2013">2013</button>
+      <button class="year-button" data-year="2014">2014</button>
+      <button class="year-button" data-year="2015">2015</button>
+      <button class="year-button" data-year="2016">2016</button>
+      <button class="year-button" data-year="2017">2017</button>
+      <button class="year-button" data-year="2018">2018</button>
+      <button class="year-button" data-year="2019">2019</button>
+      <button class="year-button" data-year="2020">2020</button>
+      <button class="year-button" data-year="2021">2021</button>
+      <button class="year-button" data-year="2022">2022</button>
+    </div>
+    <div class="trophy-container"></div>
+    <div class="essay">
+        <p>Al-Ahly Sporting Club, commonly referred to as Al-Ahly, is an Egyptian professional sports club based in Cairo. Founded in 1907, Al-Ahly is one of the oldest and most successful football clubs in Africa and the Middle East. Throughout its illustrious history, the club has garnered a massive following and has achieved remarkable success both domestically and internationally.</p>
+      
+        <p>Al-Ahly's dominance in Egyptian football is unparalleled. The club has won the Egyptian Premier League title more than 40 times, making it the most successful club in the country's football history. Al-Ahly's relentless pursuit of excellence has seen it maintain a consistent level of performance, setting the benchmark for success in Egyptian football.</p>
+        
+        <p>However, Al-Ahly's success extends beyond the borders of Egypt. The club has established itself as a force to be reckoned with on the continental stage, with numerous triumphs in the CAF Champions League, Africa's premier club competition. Al-Ahly's victories in the Champions League have solidified its status as one of the most dominant clubs in African football history.</p>
+        
+        <p>One of Al-Ahly's most memorable achievements came in 2006 when the club won the FIFA Club World Cup. By defeating CONMEBOL champions São Paulo in the semifinals and CONCACAF champions Pachuca in the final, Al-Ahly became the first African team to win the prestigious tournament. The club's triumph in the Club World Cup was a testament to its quality and a source of immense pride for its supporters.</p>
+        
+        <p>Al-Ahly's success is not limited to football. The club has also enjoyed success in other sports such as basketball, handball, and volleyball. Its basketball team, for example, has won numerous Egyptian Basketball League titles and has competed in international competitions. Al-Ahly's achievements across multiple sports demonstrate its commitment to excellence and its status as a multidimensional sporting institution.</p>
+        
+        <p>What truly sets Al-Ahly apart is its passionate fan base. The club's supporters, known as the "Ultras Ahlawy," are renowned for their unwavering loyalty and fervent support. Whether at home or abroad, the Ultras Ahlawy can always be counted on to create an electrifying atmosphere and inspire the players to perform at their best. Their unwavering dedication to the club is a testament to the deep-rooted connection between Al-Ahly and its fans.</p>
+        
+        <p>As Al-Ahly continues to strive for excellence, its legacy as the club of the century remains undisputed. With a rich history of success and a bright future ahead, Al-Ahly Egyptian Club will continue to inspire generations of athletes and fans alike. Whether on the football pitch or in the hearts of its supporters, Al-Ahly will always be synonymous with greatness.</p>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <p>&copy; 2024 Al-Ahly Egyptian Club. All rights reserved.</p>
+</footer>
+
+<script src="AS.js"></script>
+
+</body>
+</html>
+window.addEventListener("scroll",()=>{
+    if(window.scrollY < 100){//if I scroll on Y-Axis
+        headerr.classList.add("scroll");
+    }
+})
+let j=document.getElementById("join").onclick=()=>{
+    window.location.href="Players.html"
+}
+.fa-solid{
+    color: #f2f2f2;
+}
+a:active {
+    transform: scale(0.8);
+    transition: none
+}
+@media (width<600px) {/*display flex*/
+    .logo{
+        display: none;
+    }
+    header.flex{
+        justify-content: center;
+        
+        .right{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1rem;
+        }
+    }
+    
+}
+.logoo{
+    background-image: url("274261_1653x459.jpg");
+    height: 100dvh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+    display: block;
+    outline: 0px;
+    padding: 0px;
+    margin: 0px;
+    background-attachment: fixed;
+}
+.logo{
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+section.content{
+    font-size: 2rem;
+    color: #000000;
+    position: absolute;
+    top: 45%;
+    transform: translateY(-50%);
+    margin-left: 10%;
+}
+@media (width<1000) {
+    div.logoo{
+        background-position: left;
+    }
+}
+.span1{
+    font-weight: bold;
+    color: rgb(235, 52, 52);
+}
+.welcome{
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+.Ahly-store{
+    display: block;
+    margin-top: 0.7rem;
+    font-weight: bold;
+    color: #f65555;
+}
+.At{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+header.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 10%;
+    padding-top: 2rem;
+}
+.Sign-in{
+margin-inline: 1rem;
+}
+.Sign-in,.Register{
+    border: 2px solid black;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    border-radius: 55px;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 1000;
+}
+.Sign-in:hover
+,.Register:hover,
+&.Sign-in:hover.fa-solid,
+&.Register:hover.fa-solid{
+    background-color: #2b253a;
+    border: 1px solid rgb(152, 154, 189);
+    padding: 0.5rem 1.1rem;
+    color: #9fc5ef;
+}
+.logo:hover{
+    scale: 1.1;
+    }
+a{
+    all:unset
+    
+}
+a:hover{
+    color: #007bff;
+}
+.Favourite{
+    background-color:#2b3445 ;
+    color: #9fc5ef;
+    font-size: 1rem;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    border-radius: 55px;
+    border: 2px solid black;
+}
+.noproducts{
+    position: absolute;
+    right: 0;
+    top: -5px;;
+    font-size: 0.7rem;
+    font-weight: bold;
+    background-color: rgb(255,193,173);
+    height: 20px;
+    width: 20px;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.fa-shop{
+    font-size: 2rem;
+}
+.right{
+    margin-right: 0.3rem;
+}
+button{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    margin-top: 0.9rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    padding: 0.5rem 1.5rem;
+}
+button:hover{
+    scale: 0.9;
+    transition: 2s;
+}  
+  @media (width < 1000px) {
+    div.top-img {
+      background-position: left;
+    }
+  }
+  section.content {
+    font-size: 2rem;
+    position: absolute;
+  
+    top: 45%;
+    transform: translateY(-50%);
+  
+    margin-left: 10%;
+    & button {
+      background-color: black;
+      color: white;
+      margin-top: 0.9rem;
+      font-size: 0.9rem;
+      border-radius: 3px;
+      padding: 0.6rem 1.6rem;
+    }
+  }
+  
+  main h1.recommended {
+    margin: 2.3rem 0 2rem 2%;
+  }
+  
+  @media (width < 600px) {
+    main h1.recommended {
+      margin: 2.3rem 0 2rem 0;
+      font-size: 1.4rem;
+    }
+  }
+  main section.products.flex{
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem 2rem;
+     margin: 3px;
+  
+  
+    & article.card{
+      border-radius: 5px;
+      box-shadow: 5px 5px 0.7rem rgb(0, 0, 0);
+    transition: 0.2s;
+    }
+  
+  
+    & article.card:hover{
+      scale: 1.2;
+    }
+  
+    & img {
+      border-radius: 5px 5px 0 0;
+    }
+  
+    & .card .content {
+      background-color: #fff;
+      border-radius: 0 0 5px 5px;
+    }
+  
+    & .card .content .title {
+      padding-top: 0.7rem;
+      padding-inline: 0.4rem;
+      text-transform: capitalize;
+    }
+  
+    & .card .content .description {
+      padding-inline: 0.4rem;
+      font-size: 0.8rem;
+      margin-top: 0.4rem;
+      margin-bottom: 0.6rem;
+      line-height: 1.1rem;
+    }
+  
+    & .card .content .price {
+      margin-left: 0.88rem;
+      font-size: 0.9rem;
+      color: rgb(199, 0, 40);
+      font-weight: bold;
+    }
+  
+    & .add-to-cart {
+      margin-right: 0.88rem;
+      background-color: rgb(104, 104, 222);
+      color: #fff;
+      border-radius: 4px;
+      padding: 6px 8px;
+      font-size: 0.7rem;
+      gap: 0.33rem;
+    }
+  
+    & .fa-solid {
+      color: white;
+    }
+  
+  }
+  ::selection{
+    color: aqua;
+  }
+  :root {
+    --bodyBG: #f2f2f2;
+    --bodyFont: #2b3445;
+    --blue: #9fc5ef;
+    --blue-button: #1976d2;
+  }
+  
+  body {
+    background-color: var(--bodyBG);
+    color: var(--bodyFont);
+  }  
+  .border {
+    border: 4px solid red;
+  }
+  
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+  
+  html {
+    font-family: system-ui, -apple-system, "Roboto", sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  main {
+    width: 80%;
+    margin-inline: auto;
+  }
+  
+  @media (width < 600px) {
+    main {
+      width: 100%;
+    }
+  }
+  a,
+  button {
+    all: unset;
+    display: inline-block;
+    transition: 0.2s;
+  }
+  
+   button:active,
+  a:active {
+    scale: 0.9;
+  }
+  
+  button:hover,
+  a:hover {
+    cursor: pointer;
+  }
+  footer {
+    background-color: #f1e4d9; 
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.social-media img,
+.payment-options img {
+    width: 30px;
+    height: auto;
+    margin-left: 10px; 
+}
+
+.payment-options span {
+    font-size: 1rem;
+    color: #0b0b0b; 
+    margin-right: 10px; 
+}
+
+.social-media a {
+    display: block;
+    transition: transform 1s ease;
+}
+.social-media a:hover {
+    transform: translateY(-3px); 
+}
+
+.copyright {
+    font-size: 1.2rem; 
+    color: #fff; 
+    font-weight: bold; 
+}
+.copyright {
+    font-size: 12px;
+    color: #777;
+    margin-top: 20px;
+}header {
+    background-color: #343a40; 
+    color: #fff; 
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.logo span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.logo p {
+    margin: 0;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.right a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: transform 0.3s ease; 
+}
+
+.right a:hover {
+    transform: scale(1.1); 
+}
+
+.noproducts {
+    background-color: #dc3545; 
+    color: #fff;
+    border-radius: 50%; 
+    padding: 2px 6px; 
+    font-size: 12px;
+    margin-left: 5px;
+}
+.fa-heart:before {
+    content: "\e005"; /*hear*/
+}
+
+.fa-right-to-bracket:before {
+    content: "\e00a"; /*right bracke*/
+}
+
+.fa-person-circle-check:before {
+    content: "\e009"; /*check icon*/
+}
+/*to make icons*/
+:root {
+    --bodyBG: #f6f6f6;
+    --bodyFont: #2b3445;
+    --blue: #9fc5ef;
+    --blue-button: #1976d2;
+    --red-button: #e41d43;
+  
+    --icons: #40464d;
+  
+    --footer-bg: #212529;
+  
+    --white: #fff;
+  }
+  
+  body {
+    background-color: var(--bodyBG);
+    color: var(--bodyFont);
+  }
+  .border {
+    border: 4px solid red;
+  }
+  
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+  
+  html {
+    font-family: system-ui, -apple-system, "Roboto", sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  main {
+    width: 80%;
+    margin-inline: auto;
+  }
+  
+  @media (width < 600px) {
+    main {
+      width: 100%;
+    }
+  }
+  a,
+  button {
+    all: unset;
+    display: inline-block;
+    transition: 0.2s;
+  }
+  
+  button:active,
+  a:active {
+    scale: 0.9;
+  }
+  
+  button:hover,
+  a:hover {
+    cursor: pointer;
+  }
+  
+  button:disabled{
+    opacity: 0.7;
+    cursor: not-allowed;
+    scale: 1;
+  }
+  
+  li {
+    list-style: none;
+  }
+  .fa-solid {
+    color: var(--icons);
+  }
+  .scroll{
+    position: fixed;
+    right: 0;
+    left: 0;
+    padding-bottom: 1rem;
+    z-index: 10;
+  }
+  .join-us:hover{
+    scale: 1.01;
+    transition: 1s;
+  }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px ;
+}
+.logo a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    padding-top: 35px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+.navbar a{
+
+    text-decoration: none;
+    font-size: 20 px;
+    font-weight: 700px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px ;
+    padding: 35px 35px;
+    transition: all 0.2s;
+}
+.navbar a:hover{
+    color:rgba(252, 250, 250);
+    background-color: red;
+
+}
+.navbar a.active{
+    color:aliceblue;
+    background-color: red;
+}
+.home-title{
+    display: flex;
+    justify-content: right;
+}
+.title{
+   
+    padding: 200px 20px;
+}
+.title .title-own{
+    padding-bottom: 10px;
+    color:rgb(248,58,57)
+}
+.title .title-tow{
+    padding-bottom: 10px;
+    color:rgb(0,0,0)
+}
+.title .title-thry{
+    padding-bottom: 10px;
+    font-weight: 700;
+    color:rgb(0,0,0)
+}
+.title span{
+    color: rgb(248,58,57);
+}
+.add{
+    display: inline-block;
+    text-decoration: none;
+    margin: 20px 100px;
+    color:rgb(32,0,0);
+    border: 1px solid rgb(202,21,21);
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: rgba(250, 250, 250);
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.add:hover{
+    background-color: rgb(238,55,55);
+    color:rgb(240,240,240);
+}
+.img-i{
+    transition:0.7s ease;
+}
+.img-i:hover{
+    transform:scale(1.1) ;
+}
+.logo{
+    margin-right:520px ;
+}
+.image{
+margin-top: 36px;
+}
+.title-price-h2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    font-size: 25px;
+    color: black;
+    font-weight: 800;
+}
+.title-img{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.title-img img{
+    width: 250px;
+    height: 250px;
+    transition: 0.8s ease;
+    padding-top: 10px;
+}
+.title-img img:hover{
+    transform:scale(1.1) ;
+}
+.title-a{
+   background-color: rgba(236, 239, 241, 1); ;
+   min-height: 250px;
+   width: 350px;
+   overflow: hidden;
+   border-radius: 20px;
+   margin: 15px;
+}
+.info{
+    padding: 20px 50px;
+    display: flex;
+    font-size: 20px;
+    font-weight: 800;
+    margin-right: 50px;
+}
+.info a:hover{
+    background-color: rgb(238,74,74);
+    color: rgb(255, 255, 255);
+}
+.add-now{
+    display: flex;
+    justify-content:space-between;
+    font-size: 15px;
+    text-decoration: none;
+    background-color: rgb(202, 202, 202);
+    color: black;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.add-price{
+    display: flex;
+    text-decoration: none;
+    padding: 10px 10px;
+    color: black;
+    margin-right: 10px;
+}
+footer {
+    background-color: #f1e4d9; 
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.social-media img,
+.payment-options img {
+    width: 30px;
+    height: auto;
+    margin-left: 10px; 
+}
+
+.payment-options span {
+    font-size: 1rem;
+    color: #0b0b0b; 
+    margin-right: 10px; 
+}
+
+.social-media a {
+    display: block;
+    transition: transform 1s ease;
+}
+.social-media a:hover {
+    transform: translateY(-3px); 
+}
+
+.copyright {
+    font-size: 1.2rem; 
+    color: #fff; 
+    font-weight: bold; 
+}
+.copyright {
+    font-size: 12px;
+    color: #777;
+    margin-top: 20px;
+}
+::selection{
+    color: yellowgreen;
+}
+document.addEventListener("DOMContentLoaded", function() {
+    const buttons = document.querySelectorAll(".year-button");
+    const trophyContainer = document.querySelector(".trophy-container");
+  
+    buttons.forEach(button => {
+      button.addEventListener("click", function() {
+        const year = button.dataset.year;
+        let champions = "";
+  
+        // Determine champions for the selected year
+        switch (year) {
+          case "2000":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Champions League.";
+            break;
+          case "2001":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Champions League.";
+            break;
+          case "2002":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2003":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Champions League.";
+            break;
+          case "2004":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2005":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2006":
+            champions = "Al-Ahly won the Egyptian Premier League and the FIFA Club World Cup.";
+            break;
+          case "2007":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Champions League.";
+            break;
+          case "2008":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2009":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2010":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Champions League.";
+            break;
+          case "2011":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2012":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Champions League.";
+            break;
+          case "2013":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Champions League.";
+            break;
+          case "2014":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Confederation Cup.";
+            break;
+          case "2015":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2016":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2017":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Champions League.";
+            break;
+          case "2018":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2019":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2020":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          case "2021":
+            champions = "Al-Ahly won the Egyptian Premier League and the CAF Champions League.";
+            break;
+          case "2022":
+            champions = "Al-Ahly won the Egyptian Premier League.";
+            break;
+          default:
+            champions = "Champions data not available for this year.";
+        }
+          trophyContainer.innerHTML = "<p>" + champions + "</p>";
+          trophyContainer.classList.toggle("active");
+      });
+    });
+      setTimeout(function() {
+      const essay = document.querySelector(".essay");
+      essay.classList.add("show");
+    }, 100); 
+  });
+function redirectToGoogleLogin() {
+    var google_login_url = "https://accounts.google.com";
+    window.location.href = google_login_url;
+}
+document.getElementById("loginWithGoogle").addEventListener("click", redirectToGoogleLogin);
+function contactUsByEmail() {
+    var email = "Alahlystore@gmail.com";
+    var subject = "Regarding AL-Ahly Store";
+    var body = "Dear AL-Ahly Store Team,\n\nI would like to get in touch with you regarding...\n\nSincerely, [Your Name]";
+    var mailtoLink = "mailto:" + email + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+    window.location.href = mailtoLink;
+}
+document.getElementById("contactUs").addEventListener("click", contactUsByEmail);
+let a=document.getElementById("As").onclick=()=>{
+    window.location.href="About Us.html";
+}
+let b=document.getElementById("register").onclick=()=>{
+    window.location.href="register.html";
+}
+document.getElementById("loginForm").addEventListener("submit", function(event) {
+    event.preventDefault(); 
+    window.location.href = "Al-ahly store.html";
+});
+
+function redirectToGoogleLogin() {
+    var google_login_url = "https://accounts.google.com";
+    window.location.href = google_login_url;
+}
+document.getElementById("loginWithGoogle").addEventListener("click", redirectToGoogleLogin);
+function contactUsByEmail() {
+    var email = "Alahlystore@gmail.com";
+    var subject = "Regarding AL-Ahly Store";
+    var body = "Dear AL-Ahly Store Team,\n\nI would like to get in touch with you regarding...\n\nSincerely, [Your Name]";
+    var mailtoLink = "mailto:" + email + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+    window.location.href = mailtoLink;
+}
+document.getElementById("contactUs").addEventListener("click", contactUsByEmail);
+let a=document.getElementById("As").onclick=()=>{
+    window.location.href="About Us.html";
+}
+let b=document.getElementById("register").onclick=()=>{
+    window.location.href="register.html";
+}
+document.getElementById("loginForm").addEventListener("submit", function(event) {
+    event.preventDefault(); 
+    window.location.href = "Al-ahly store.html";
+});
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration Form</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="background-container">
+    <div class="lines">
+      <div class="line"></div>
+      <div class="line"></div>
+  </div>
+    <div class="registration-container">
+      <h2>Registration Form</h2>
+      <form id="registrationForm">
+        <label for="fullName">Full Name:</label>
+        <input type="text" id="fullName" name="fullName" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="address">Address:</label>
+        <input type="text" id="address" name="address" required>
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone" required>
+        <input type="submit" value="move to Login">
+      </form>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(26,26,27);
+}
+header {
+    background-color: #e74c3c; 
+    text-align: center;
+    padding: 20px 0;
+    transition: background-color 0.3s ease; 
+}
+.login-options {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login-options button {
+    color: #fff;
+    background-color: #4285f4;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px; 
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+}
+
+.login-options button:hover {
+    background-color: #357ae8;
+}
+
+.logo {
+    width: 100px; 
+    height: auto;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 8px 16px; 
+    border: 2px solid transparent; 
+    border-radius: 5px; 
+    transition: all 0.3s ease; 
+}
+.logo:hover{
+    transform: scale(1.1);
+}
+nav a:hover {
+    background-color: #fff;
+    color: #e74c3c;
+    border-color: #e74c3c;
+}
+.main-content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer {
+    background-color: #34495e; 
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+    animation: slideInFromLeft 2s ease; 
+    color: #ffffff;
+}
+span{
+    color: #e76b6b;
+}
+h2{
+    text-align: center;
+    color: #fffefe;
+}
+form {
+    display: block;
+    border: 2px solid #e74c3c; 
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px; 
+    margin: 0 auto; 
+}
+
+legend {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: calc(100% - 20px); 
+    margin-bottom: 10px;
+    color: #000000;
+    font-size: large;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: #e74c3c; 
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #c0392b;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #000;
+  background-image: url(reg.jpg) ;
+  background-size: cover;
+  overflow: hidden;
+}
+
+header {
+  /* background-image: linear-gradient(135deg, #f77a7a, #e93838); */
+  color: #040404;
+  text-align: center;
+  padding: 20px 0;
+}
+.background-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+}
+
+.lines {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.line {
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.1);
+  transform-origin: center;
+}
+
+.line:nth-child(odd) {
+  transform: rotate(45deg);
+}
+
+.line:nth-child(even) {
+  transform: rotate(-45deg);
+}
+
+.line::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -50%;
+  width: 200%;
+  height: 1px;
+  background-color: inherit;
+}
+
+.background-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.registration-container {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 10);
+  animation: slideFromLeft 1s ease forwards ;
+}
+@keyframes slideFromLeft {
+  from {
+      transform: translateY(-100%);
+  }
+  to {
+      transform: translateX(0);
+  }
+}
+form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #555;
+}

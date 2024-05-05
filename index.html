@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al Ahly Store Login</title>
+    <link 
+    rel="icon" href="Ahly pic.png">
+    <link rel="stylesheet" href="style.css">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+</head>
+<body >
+    <nav>
+        <a href="#" id="As">
+            <i class="fa-solid fa-trophy"></i>
+            About Al-Ahly</a>
+        <a href="#" id="contactUs">
+            <i class="fa-solid fa-voicemail"></i>
+            Contact Us</a> 
+        <a href="#" id="register">
+            <i class="fa-solid fa-registered"></i>
+            Register</a>
+    </nav>
+    <button id="mode">
+        <i class="fa-regular fa-moon"></i>
+        Change Mode</button>
+</header>
+      <h2>
+        <i class="fa-solid fa-door-open"></i>
+        Welcome to offical page of <span>al-ahly</span> store</h2>
+    <div class="container">
+        <img src="Ahly pic.png" alt="Al Ahly Logo" class="logo">
+        <form id="loginForm" action="S_E.html" method="POST">
+            <p>
+                <i class="fa-solid fa-shop"></i>
+                Al-Ahly Store Tanta-Egypt</p>
+            <legend>
+                <i class="fa-solid fa-right-to-bracket"></i>
+                Login</legend>
+            <label for="username">
+                <i class="fa-solid fa-user"></i>
+                Username : </label>
+            <input type="text" id="username" name="username" required placeholder="moamen mohammed">
+            <label for="email">
+                <i class="fa-solid fa-envelope"></i>
+                Email : </label>
+            <input type="email" id="email" name="email" required placeholder="Ahlystore@gmail.com">
+            <label for="password">
+                <i class="fa-solid fa-unlock"></i>
+                Password : </label>
+            <input type="password" id="password" name="password" required placeholder="2202955">
+            <input type="submit" value="Submit" >
+        </form>
+    </div>
+    <div class="login-options">
+        <button id="loginWithGoogle">
+            <i class="fa-brands fa-google"></i>
+            Login with Google</button>
+    </div>
+    <footer>
+        <p>&copy; 2024 AL-Ahly Store. All rights reserved.</p>
+    </footer>
+    <script src="main.js"></script>
+</body>
+</html>

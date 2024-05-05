@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>products</title>
+    <link rel="icon" href="Ahly pic.png" />
+    <link rel="stylesheet" href="Fav.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body
+    class="border"
+    style="
+      height: 100vh;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      align-items: center;
+    "
+  >
+    <header class="flex">
+      <!-- to be inline -->
+      <a  class="logo">
+        <img src="Ahly pic.png" width="40px" alt="Ahly logo" />
+        <span style="font-weight: bold">Ahly-Store</span>
+        <p style="letter-spacing: 0.5px">Club of the century</p>
+      </a>
+      <div class="right">
+        <a class="Favourite" href="Fav.html" style="position: relative">
+          <i class="fa-solid fa-heart" style="color: white;"></i>
+          Favourite
+          <span class="noproducts">0</span>
+        </a>
+        <a class="Sign-in" href="login form.html" style="transform: scale(0.9)">
+          <i class="fa-solid fa-right-to-bracket" style="color: white;"></i>
+          Sign-in</a
+        >
+        <a class="Register" href="register.html" style="transform: scale(0.9)">
+          <i class="fa-solid fa-person-circle-check" style="color: white;"></i>
+          Register</a
+        >
+      </div>
+    </header>
+    <main style="text-align: center;" class="flex">
+    
+      <img alt="" src="Ahly pic.png" />
+
+      <div class="product-details">
+        <div style="justify-content: space-between" class="flex">
+          <h2>Details</h2>
+          <p class="price">$16</p>
+        </div>
+
+        <p class="description">
+          Support Al-Ahly with style! Elevate your fan game with the alternate t-shirt, showing your passion for the iconic Egyptian club.
+        </p>
+
+        <button class="flex add-to-Fav">
+          <i class="fa-solid fa-cart-plus"></i>
+          Add To FAV
+        </button>
+      </div>
+
+    </main>
+
+    <footer>
+      <div class="footer-container">
+        <div class="social-media">
+          <a href="https://web.facebook.com/alahly" target="_blank">
+            <p>
+              <i class="fa-brands fa-facebook"></i>
+              Al-Ahly page &nbsp;
+            </p>
+          </a>
+        </div>
+        <div class="payment-options">
+          <i class="fa-brands fa-cc-visa"></i>
+          <span>Purchasing by Visa card</span>
+        </div>
+      </div>
+      <div class="copyright">
+        &copy; 2024 Al-Ahly Store. All rights reserved.
+      </div>
+    </footer>
+  </body>
+</html>
